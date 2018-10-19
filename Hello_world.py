@@ -5,6 +5,7 @@ print("now I'm on the master branch!")
 
 def functionOne():
     print("this is a function")
+    print("This is a change in function one")
 
 def functionTwo():
     print("this is also a function")
